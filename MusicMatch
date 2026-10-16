@@ -221,7 +221,7 @@ int main() {
             cout << "\n--- QUE ARTISTA DE MUSICA LE GUSTARIA COMPRAR ---" << endl;
             cout << "1. Lignina" << endl;
             cout << "2. Kukos Band" << endl;
-            cout << "3. Bhietxa" << endl;
+            cout << "3. Blassfemia" << endl;
             cin >> cantante;
 
             if (cantante == 1) {
@@ -247,7 +247,7 @@ int main() {
                 cout << "Cliente: " << nombreCompleto << endl;
                 cout << "Producto: Compra de Album" << endl;
                 cout << "Genero: Popular" << endl;
-                cout << "Cantante: Antonio David" << endl;
+                cout << "Cantante: Blassfemia" << endl;
                 cout << "Total: $" << precioMusicaP << endl;
             }
         }
